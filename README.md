@@ -1,5 +1,5 @@
 # C Multithreaded Fast Substring Finder
-This repository contains an incredibly fast C implementation of the Boyer-Moore substring search algorithm. Designed to showcase the rapid search capacity of the Boyer-Moore algorithm, this project is capable of locating a substring at the end of a 112,386,212-character file in an impressive 0.003 - 0.004 seconds. While it does not serve a practical purpose, it does showcase the speed of the Boyer-Moore algorithm in substring searching.
+This repository contains an incredibly fast C implementation of the [Boyer-Moore substring search algorithm](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string-search_algorithm). Designed to showcase the rapid search capacity of the Boyer-Moore algorithm, this project is capable of locating a substring at the end of a 112,386,212-character file in an impressive 0.003 - 0.004 seconds. While it does not serve a practical purpose, it does showcase the speed of the Boyer-Moore algorithm in substring searching.
 
 ## Getting Started
 ⚠️ **Important: Windows Only**
